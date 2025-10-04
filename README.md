@@ -1,4 +1,4 @@
-## Hi there!I'm Arpita Das👋🏻☺️ 
+## Hi there ! I'm Arpita Das👋🏻☺️ 
 
 💻 ||Aspiring Software Engineer|| passionate about coding, building and innovation 🚀
 
