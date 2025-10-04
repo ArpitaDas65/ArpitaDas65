@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**ArpitaDas65/ArpitaDas65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi ! I'm Arpita Das👋🏻☺️ 
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer | passionate about coding, building and innovation 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with Me :
+
+✨Twitter 
+https://x.com/ArpitaDas1601?t=MZW-Cu2KRBE6l1pdntcZcQ&s=09
+
+✨Linkedin 
+http://www.linkedin.com/in/arpita-das-b9436a357
+
+On a journey to become a software engineer 😁 
+✨ Building innovative ideas for Digital Future 💡
+
