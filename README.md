@@ -2,7 +2,7 @@
 
 💻 ||Aspiring Software Engineer|| passionate about coding, building and innovation 🚀
 
-#🌐 Connect with Me :
+🌐 Connect with Me :
 
 ✨Twitter 
 https://x.com/ArpitaDas1601?t=MZW-Cu2KRBE6l1pdntcZcQ&s=09
@@ -14,6 +14,6 @@ On a journey to become a software engineer 😁
 
 ✨ Building innovative ideas for Digital Future 💡
 
-Quote : 
+#Quote : 
 "Your attitude determines your altitude of life".🚀
        
