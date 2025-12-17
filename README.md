@@ -6,9 +6,9 @@ Hi there ! I'm Arpita Das👋🏻
 
 # 💻 Tech Stack
 
-Languages: C,C++, Javascript 
+Languages: C,C++,Javascript 
 
-Frontend: HTML, CSS
+Frontend: HTML,CSS
 
 Backend: JS
 
