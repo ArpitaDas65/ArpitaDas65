@@ -7,9 +7,13 @@ Hi there ! I'm Arpita Das👋🏻
 # 💻 Tech Stack
 
 Languages: C,C++, Javascript 
+
 Frontend: HTML, CSS
+
 Backend: JS
+
 Databases: SQL
+
 Tools: Git,Github,netlify,MS Office,LaTex 
 
 # 📚 Education
