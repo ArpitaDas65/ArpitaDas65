@@ -2,7 +2,7 @@
 
 Hi there ! I'm Arpita Das👋🏻
 💻 ||Aspiring Software Engineer|| passionate about coding, building and innovation 🚀
-6X Campus Ambassador 
+7X Campus Ambassador 
 
 # 💻 Tech Stack
 
