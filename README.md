@@ -80,3 +80,7 @@
 ---
 
 > "Building intelligent products that create real-world impact." 🚀
+>
+> <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=GenAI+Intern;AI%2FML+%26+NLP+Enthusiast;Full-Stack+Web+Developer;Building+Intelligent+Products" />
+</p>
