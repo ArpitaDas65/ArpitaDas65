@@ -82,5 +82,5 @@
 > "Building intelligent products that create real-world impact." 🚀
 >
 > <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=GenAI+Intern;AI%2FML+%26+NLP+Enthusiast;Full-Stack+Web+Developer;Building+Intelligent+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1500&color=7AA2F7&center=true&vCenter=true&width=900&lines=Let's+connect+on+LinkedIn!;Open+to+collaborations+%26+exciting+opportunities+%F0%9F%9A%80;Thanks+for+visiting!+Have+a+great+day!+%E2%9C%8C%F0%9F%8F%BB" alt="Typing SVG" />
 </p>
