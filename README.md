@@ -68,8 +68,7 @@ I enjoy transforming ideas into intelligent products that solve real-world probl
 <a href="mailto:arpid1601@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 ---
----
-> "Building intelligent products that create real-world impact." 🚀
+>*"Building intelligent products that create real-world impact."*🚀
 >
 ---
 > <p align="center">
