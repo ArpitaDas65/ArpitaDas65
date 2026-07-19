@@ -13,7 +13,7 @@
 
 💻 Interested in AI, GenAI, Machine Learning & Web Development
 
-🌱 Currently learning LLMs, Prompt Engineering, RAG & AI Applications
+🌱 Currently learning LLMs, Prompt Engineering & AI Applications
 
 🚀 Building intelligent products that solve real-world problems
 
@@ -40,7 +40,6 @@
 - PyTorch
 - TensorFlow
 - Hugging Face Transformers
-- LangChain
 - scikit-learn
 - NLTK
 - spaCy
