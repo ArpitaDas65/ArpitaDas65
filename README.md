@@ -65,7 +65,6 @@
 - Netlify
 ---
 
-📈 GitHub Stats
 
 
 
