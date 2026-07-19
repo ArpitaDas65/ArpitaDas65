@@ -68,7 +68,7 @@
 
 🌐 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/arpita-das-979935287
+💼 LinkedIn: https://www.linkedin.com/in/arpitadas-ai
 
 📧 Email: arpid1601@gmail.com
 
