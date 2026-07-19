@@ -7,6 +7,7 @@
   <img src="file_00000000be1c81faba43f8b69e18358e.png" width="100%" alt="Arpita Das Banner">
 </p>
 ---
+
 💡 About Me
 
 🤖 GenAI Intern @ Gauhati University
@@ -57,6 +58,7 @@
 - Google Colab
 - Vercel
 - Netlify
+
 ---
 🌐 Connect With Me
 
