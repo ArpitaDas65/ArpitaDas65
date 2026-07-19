@@ -57,6 +57,10 @@ Passionate about Artificial Intelligence, Generative AI, Machine Learning, and b
 - Vercel
 - Netlify
 
+## ⚡ Fun Fact
+
+I enjoy transforming ideas into intelligent products that solve real-world problems.
+
 ---
 🌐 Connect With Me
 <p align="center">
