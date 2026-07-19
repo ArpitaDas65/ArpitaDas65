@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="file_00000000be1c81faba43f8b69e18358e.png" width="100%" alt="Arpita Das Banner">
+</p>
+
 👋 Hi, I'm Arpita Das
 
 #Passionate about Artificial Intelligence, Generative AI, Machine Learning, and building impactful real-world applications.
