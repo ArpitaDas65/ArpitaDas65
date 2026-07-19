@@ -67,13 +67,14 @@ I enjoy transforming ideas into intelligent products that solve real-world probl
 <a href="https://www.linkedin.com/in/arpitadas-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:arpid1601@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
----
+
+
 <details>
 <summary>💬 My Fav Quote</summary>
 
 > *Our attitude and gratitude determines our altitude of life* 🚀
 
 </details>
-> <p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1500&color=7AA2F7&center=true&vCenter=true&width=900&lines=Let's+connect+on+LinkedIn!;Open+to+collaborations+%26+exciting+opportunities+%F0%9F%9A%80;Thanks+for+visiting!+Have+a+great+day!+%E2%9C%8C%F0%9F%8F%BB" alt="Typing SVG" />
 </p>
