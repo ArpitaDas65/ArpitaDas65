@@ -63,13 +63,6 @@
 - Google Colab
 - Vercel
 - Netlify
----
-
-
-
-
-
-
 
 ---
 
