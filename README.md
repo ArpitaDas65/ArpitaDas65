@@ -11,9 +11,13 @@ Passionate about Artificial Intelligence, Generative AI, Machine Learning, and b
 💡 About Me
 
 🤖 GenAI Intern @ Gauhati University
+
 🧠 AI/ML Intern @ Coding Blocks
+
 💻 Interested in AI, GenAI, Machine Learning & Web Development
+
 🌱 Currently learning LLMs, Prompt Engineering & AI Applications
+
 🚀 Building intelligent products that solve real-world problems
 
 ---
