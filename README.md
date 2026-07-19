@@ -1,6 +1,5 @@
-
-👋 Hi, I'm Arpita Das
 ---
+👋 Hi, I'm Arpita Das
 Passionate about Artificial Intelligence, Generative AI, Machine Learning, and building impactful real-world applications.
 ---
 <p align="center">
