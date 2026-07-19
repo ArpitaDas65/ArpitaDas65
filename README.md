@@ -17,48 +17,16 @@ Passionate about Artificial Intelligence, Generative AI, Machine Learning, and b
 ---
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Python
-- C
-- C++
-- JavaScript
-
-### 🤖 AI & Machine Learning
-- Natural Language Processing (NLP)
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-
-
-### 📚 Libraries & Frameworks
-- PyTorch
-- TensorFlow
-- Hugging Face Transformers
-- scikit-learn
-- NLTK
-- spaCy
-- Pandas
-- NumPy
-
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-
-### 🗄️ Database
-- SQL
-
-### ☁️ Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Vercel
-- Netlify
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,sklearn,mysql,git,github,vscode,vercel,netlify&perline=8" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github,vscode,mysql,tensorflow,pytorch,vercel,netlify&perline=7" />
+🤗 Hugging Face • 📖 NLTK • 🧠 spaCy • 🐼 Pandas • 🔢 NumPy • 📓 Jupyter Notebook • 🚀 Google Colab • 💼 MS Office
+</p>
+
+<p align="center">
+<b>Interests:</b> 🤖 Generative AI • 🧠 NLP • 💬 Large Language Models (LLMs) • ✨ Prompt Engineering
 </p>
 
 ## ⚡ Fun Fact
