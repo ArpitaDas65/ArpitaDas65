@@ -57,6 +57,10 @@ Passionate about Artificial Intelligence, Generative AI, Machine Learning, and b
 - Vercel
 - Netlify
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github,vscode,mysql,tensorflow,pytorch,vercel,netlify&perline=7" />
+</p>
+
 ## ⚡ Fun Fact
 
 I enjoy transforming ideas into intelligent products that solve real-world problems.
