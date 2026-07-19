@@ -6,9 +6,7 @@
 <p align="center">
   <img src="file_00000000be1c81faba43f8b69e18358e.png" width="100%" alt="Arpita Das Banner">
 </p>
-
 ---
-
 💡 About Me
 
 🤖 GenAI Intern @ Gauhati University
@@ -20,11 +18,7 @@
 🌱 Currently learning LLMs, Prompt Engineering & AI Applications
 
 🚀 Building intelligent products that solve real-world problems
-
-
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -66,19 +60,13 @@
 - Google Colab
 - Vercel
 - Netlify
-
 ---
-
 🌐 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/arpitadas-ai
 
 📧 Email: arpid1601@gmail.com
-
-
-
 ---
-
 > "Building intelligent products that create real-world impact." 🚀
 >
 > <p align="center">
