@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=2000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Arpita+Das+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 Passionate about Artificial Intelligence, Generative AI, Machine Learning, and building impactful real-world applications.
----
+
 <p align="center">
   <img src="file_00000000be1c81faba43f8b69e18358e.png" width="100%" alt="Arpita Das Banner">
 </p>
