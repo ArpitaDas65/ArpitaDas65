@@ -50,7 +50,37 @@ I enjoy transforming ideas into intelligent products that solve real-world probl
     alt="GitHub Activity Graph"
   />
 </p>
+---
 
+## 🏆 Personal Milestones
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🤖_AI%2FML-Builder-7AA2F7?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/🧠_NLP-Explorer-FF69B4?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/✨_GenAI-Builder-8A2BE2?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/💻_Web-Developer-00C7B7?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🚀_Projects-Building-FFD166?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/🌱_Always-Learning-06D6A0?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/💡_Ideas-Into_Products-F72585?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+  <i>Building • Learning • Experimenting • Growing</i>
+</p>
+
+---
 
 🌐 Connect With Me
 <p align="center">
