@@ -24,11 +24,21 @@ Passionate about Artificial Intelligence, Generative AI, Machine Learning, and b
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,latex,tensorflow,pytorch,sklearn,huggingface,openai,jupyter,mysql,git,github,vscode,vercel,netlify&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,sklearn,mysql,git,github,vscode,vercel,netlify&perline=8" />
 </p>
 
 <p align="center">
-🤗 Hugging Face • 📖 NLTK • 🧠 spaCy • 🐼 Pandas • 🔢 NumPy • 📓 Jupyter Notebook • 🚀 Google Colab • 💼 MS Office
+  <img src="https://skillicons.dev/icons?i=anaconda,jupyter,latex,markdown,linux,docker,figma&perline=8" />
+</p>
+
+<p align="center">
+  <b>🤗 Hugging Face</b> •
+  <b>🧠 NLTK</b> •
+  <b>🧬 spaCy</b> •
+  <b>🐼 Pandas</b> •
+  <b>🔢 NumPy</b> •
+  <b>🚀 Google Colab</b> •
+  <b>💼 MS Office</b>
 </p>
 
 <p align="center">
