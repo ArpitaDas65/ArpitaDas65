@@ -41,38 +41,6 @@ I enjoy transforming ideas into intelligent products that solve real-world probl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ArpitaDas65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-    alt="Arpita Das GitHub Stats"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaDas65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    height="180"
-    alt="Arpita Das Top Languages"
-  />
-</p>
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ArpitaDas65&theme=tokyonight&hide_border=true" 
-    alt="Arpita Das GitHub Streak"
-  />
-</p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ArpitaDas65&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" 
-    alt="GitHub Trophies"
-  />
-</p>
-
 ## 📈 GitHub Activity
 
 <p align="center">
