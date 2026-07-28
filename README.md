@@ -24,7 +24,7 @@ Passionate about Artificial Intelligence, Generative AI, Machine Learning, and b
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,sklearn,mysql,git,github,vscode,vercel,netlify&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,sklearn,mysql,Latex,git,github,vscode,vercel,netlify&perline=8" />
 </p>
 
 <p align="center">
