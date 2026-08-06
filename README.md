@@ -104,17 +104,7 @@ Mission:
 
 </p>
 
-<p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaDas65&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitaDas65&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
 
 ---
 
