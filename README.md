@@ -2,42 +2,87 @@
 
 # Hi 👋, I'm Arpita Das
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=7AA2F7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Generative+AI+%7C+Machine+Learning;Building+Intelligent+Products+🚀;Always+Learning+Something+New+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Generative+AI+%7C+Machine+Learning;Building+Intelligent+Products+🚀;Always+Learning+Something+New+✨"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656965-0d4f8d81-4f6d-493c-8c29-4a66f9d7c4d4.gif" width="700"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ArpitaDas65&label=PROFILE+VIEWS&style=for-the-badge&color=0E75B6"/>
+
+<img src="https://img.shields.io/github/followers/ArpitaDas65?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/ArpitaDas65?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
+---
+
+# 💫 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212750374-43589c0f-0e86-4b36-8e7f-6a5b3c7b0f2f.gif">
+
+🎓 Tech Student
+
+🤖 GenAI Intern @ Gauhati University
+
+🧠 AI/ML Intern @ Coding Blocks
+
+💻 Passionate about Artificial Intelligence, Generative AI, Machine Learning & Web Development.
+
+🌱 Currently learning
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Full Stack AI Applications
+
+🚀 Building intelligent products that solve real-world problems.
+
+---
+
+# 🏅 Personal Milestones
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArpitaDas65&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
+<img src="https://img.shields.io/badge/🤖_AI-Builder-blue?style=for-the-badge"/>
 
-<a href="https://github.com/ArpitaDas65?tab=followers">
-<img src="https://img.shields.io/github/followers/ArpitaDas65?style=for-the-badge&color=0891B2"/>
-</a>
+<img src="https://img.shields.io/badge/✨_GenAI-Explorer-purple?style=for-the-badge"/>
 
-<a href="https://github.com/ArpitaDas65">
-<img src="https://img.shields.io/github/stars/ArpitaDas65?affiliations=OWNER&style=for-the-badge&color=F72585"/>
-</a>
+<img src="https://img.shields.io/badge/🧠_NLP-Learner-pink?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻_Web-Developer-00C7B7?style=for-the-badge"/>
 
 </p>
 
 ---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,sklearn,mysql,git,github,vscode,linux,docker,figma,anaconda,jupyter,latex,vercel,netlify&perline=10"/>
+
+</p>
+
+<p align="center">
+
+🤗 Hugging Face • 🧠 NLTK • 🧬 spaCy • 🐼 Pandas • 🔢 NumPy • 📊 Matplotlib • 🚀 Google Colab • 💼 MS Office
+
+</p>
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitaDas65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArpitaDas65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ArpitaDas65&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaDas65&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=ArpitaDas65&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -53,29 +98,7 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ArpitaDas65/ArpitaDas65/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
-> **Note:** This will appear after you enable the GitHub Action and let it run once.
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArpitaDas65&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
+# 🎯 Currently Learning
 
 ```text
 ✓ Large Language Models (LLMs)
@@ -90,35 +113,8 @@
 
 ✓ Deep Learning
 
-✓ Full Stack AI Applications
-
-✓ Open Source
+✓ Building AI Products
 ```
-
----
-
-# 📌 Current Goals
-
-- 🚀 Build impactful AI products
-- 🤝 Contribute to Open Source
-- 📚 Learn advanced LLMs & AI Agents
-- 🌐 Create modern web applications
-- 💼 Collaborate on exciting AI projects
-
----
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/ArpitaDas65/Hotel-Review-Sentiment-Analysis-Using-Multilingual-BERT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitaDas65&repo=Hotel-Review-Sentiment-Analysis-Using-Multilingual-BERT&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ArpitaDas65/Numerology-Calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitaDas65&repo=Numerology-Calculator&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 
 ---
 
@@ -156,7 +152,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArpitaDas65&label=Profile+Views&style=flat-square&color=7AA2F7"/>
+<img src="https://komarev.com/ghpvc/?username=ArpitaDas65&label=PROFILE+VIEWS&style=for-the-badge&color=7AA2F7"/>
 
 </p>
 
@@ -166,7 +162,7 @@
 
 ## ⭐ Thanks for visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1500&color=7AA2F7&center=true&vCenter=true&width=800&lines=Open+to+Collaborations+🚀;Building+AI+Products+🤖;Always+Learning+✨;Thanks+for+Visiting!+❤️"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1500&color=7AA2F7&center=true&vCenter=true&width=700&lines=Open+to+Collaborations+🚀;Building+AI+Products+🤖;Always+Learning+✨;Thanks+for+Visiting!+❤️"/>
 
 </div>
 
@@ -174,6 +170,6 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7AA2F7,100:6C63FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7AA2F7,100:6C63FF&section=footer"/>
 
 </p>
