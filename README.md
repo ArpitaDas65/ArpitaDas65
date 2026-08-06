@@ -1,10 +1,8 @@
 ---
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1500&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Arpita+Das;Artificial+Intelligence+Enthusiast;Generative+AI+%7C+Machine+Learning;Building+Intelligent+Products+🚀" />
-
-</div>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Arpita+Das;AI+%7C+GenAI+%7C+Machine+Learning;Building+Intelligent+Products+🚀">
+</p>
 ---
 
 <p align="center">
@@ -14,8 +12,8 @@
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ArpitaDas65&label=PROFILE+VIEWS&style=for-the-badge&color=0E75B6"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4aGJ0aDJ0dmd3dHBzbXZ3OWdnMHE0bnY4eTV3d2ZpZG5yOGszdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
+</p>
 
 <a href="https://github.com/ArpitaDas65?tab=followers">
 <img src="https://img.shields.io/github/followers/ArpitaDas65?style=for-the-badge&color=0891B2"/>
@@ -140,12 +138,7 @@
 ---
 
 # 💻 Most Used Languages
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaDas65&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaDas65&layout=compact&theme=tokyonight
 
 ---
 
@@ -217,41 +210,6 @@
 
 </p>
 
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/7AA2F7/ArpitaDas65" alt="Contribution Calendar"/>
-
-</p>
-
----
-
-# 🎧 Spotify — Now Playing
-
-<p align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=53B14F&bar_color_cover=false"/>
-
-</a>
-
-</p>
-
-> Replace **YOUR_SPOTIFY_USER_ID** with your Spotify User ID.
-
----
-
-# 📦 Recently Played Songs
-
-<p align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5"/>
-
-</p>
 
 ---
 
