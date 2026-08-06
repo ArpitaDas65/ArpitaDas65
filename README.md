@@ -93,13 +93,24 @@ Mission:
 ```
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArpitaDas65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArpitaDas65&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=ArpitaDas65&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaDas65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitaDas65&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpitaDas65&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 
