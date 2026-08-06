@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Arpita Das
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Arpita+Das;🤖+AI+Builder;✨+Generative+AI+Explorer;🧠+Machine+Learning+Enthusiast;🚀+Building+Intelligent+Products"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1200&color=7AA2F7&center=true&vCenter=true&width=950&lines=AI+Builder;Generative+AI+Explorer;Machine+Learning+Enthusiast;Building+Intelligent+Products+🚀"/>
 
@@ -138,7 +140,11 @@ Mission:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:6C63FF&height=170&section=footer"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1400&color=7AA2F7&center=true&vCenter=true&width=900&lines=✨+Thanks+for+visiting+my+profile!;🤝+Let's+connect+on+LinkedIn!;🚀+Open+to+collaborations+and+opportunities;💙+Have+an+awesome+day!"/>
+
+</div>
 
 </div>
 
