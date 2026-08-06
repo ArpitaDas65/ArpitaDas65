@@ -118,26 +118,6 @@ Mission:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArpitaDas65&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ArpitaDas65/ArpitaDas65/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
----
-
 # 💻 Daily Workflow
 
 ```text
